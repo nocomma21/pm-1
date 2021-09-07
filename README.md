@@ -1,6 +1,6 @@
 # mobile_2
 
-A new Flutter project.
+Task 2
 
 ## Getting Started
 
